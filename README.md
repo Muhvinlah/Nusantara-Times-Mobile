@@ -1,2 +1,2 @@
 # Nusantara-Times-Mobile
-This repository is meant for our mobile Project called "Nusantara Times"
+Nusantara Times is a web and mobile News project
